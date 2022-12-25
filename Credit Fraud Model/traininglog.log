@@ -1,0 +1,42 @@
+INFO:2022-12-24 02:20:02,159:Loading dataset
+INFO:2022-12-24 02:20:02,304:Analyzing data...
+INFO:2022-12-24 02:20:03,394:Oversampling data...
+INFO:2022-12-24 02:20:04,472:Splitting data...
+INFO:2022-12-24 02:20:05,243:Scaling data...
+INFO:2022-12-24 02:20:05,292:Starting training of logistic regression
+INFO:2022-12-24 02:20:05,499:Finished training: precision 0.7208, recall 0.7262, f1 score 0.7235, accuracy 72.2448
+INFO:2022-12-24 02:20:05,653:Starting training of random forest classifier
+INFO:2022-12-24 02:20:34,557:Finished training: precision 0.8113, recall 0.7264, f1 score 0.7665, accuracy 77.8729
+INFO:2022-12-24 02:20:34,700:Starting training of SVM
+INFO:2022-12-24 02:22:34,798:Finished training: precision 0.7814, recall 0.7342, f1 score 0.7570, accuracy 76.4391
+INFO:2022-12-24 02:22:35,008:Starting training of KNN
+INFO:2022-12-24 02:22:37,006:Finished training: precision 0.7773, recall 0.7118, f1 score 0.7431, accuracy 75.3977
+INFO:2022-12-24 02:22:37,163:Saving best model
+INFO:2022-12-24 02:24:15,332:Loading dataset
+INFO:2022-12-24 02:24:15,467:Analyzing data...
+INFO:2022-12-24 02:24:16,690:Oversampling data...
+INFO:2022-12-24 02:24:17,831:Splitting data...
+INFO:2022-12-24 02:24:18,716:Scaling data...
+INFO:2022-12-24 02:24:18,761:Starting training of logistic regression
+INFO:2022-12-24 02:24:18,992:Finished training: precision 0.7208, recall 0.7262, f1 score 0.7235, accuracy 72.2448
+INFO:2022-12-24 02:24:19,132:Starting training of random forest classifier
+INFO:2022-12-24 02:24:54,974:Finished training: precision 0.8130, recall 0.7293, f1 score 0.7689, accuracy 78.0797
+INFO:2022-12-24 02:24:55,242:Starting training of SVM
+INFO:2022-12-24 02:26:53,568:Finished training: precision 0.7814, recall 0.7342, f1 score 0.7570, accuracy 76.4391
+INFO:2022-12-24 02:26:53,768:Starting training of KNN
+INFO:2022-12-24 02:26:55,713:Finished training: precision 0.7773, recall 0.7118, f1 score 0.7431, accuracy 75.3977
+INFO:2022-12-24 02:26:55,856:Saving best model
+INFO:2022-12-25 16:58:35,181:Loading dataset
+INFO:2022-12-25 16:58:35,371:Analyzing data...
+INFO:2022-12-25 16:58:36,545:Oversampling data...
+INFO:2022-12-25 16:58:37,988:Splitting data...
+INFO:2022-12-25 16:58:38,776:Scaling data...
+INFO:2022-12-25 16:58:38,812:Starting training of logistic regression
+INFO:2022-12-25 16:58:39,096:Finished training: precision 0.7208, recall 0.7262, f1 score 0.7235, accuracy 72.2448
+INFO:2022-12-25 16:58:39,258:Starting training of random forest classifier
+INFO:2022-12-25 16:59:13,340:Finished training: precision 0.8093, recall 0.7296, f1 score 0.7674, accuracy 77.8872
+INFO:2022-12-25 16:59:13,496:Starting training of SVM
+INFO:2022-12-25 17:01:06,683:Finished training: precision 0.7814, recall 0.7342, f1 score 0.7570, accuracy 76.4391
+INFO:2022-12-25 17:01:06,870:Starting training of KNN
+INFO:2022-12-25 17:01:08,916:Finished training: precision 0.7773, recall 0.7118, f1 score 0.7431, accuracy 75.3977
+INFO:2022-12-25 17:01:09,065:Saving best model
