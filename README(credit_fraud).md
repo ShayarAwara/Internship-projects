@@ -11,13 +11,18 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 ## 🎯Approach
 
 Notebook Name : model training and selection.ipynb
+
 Custom Defined Modules Used : None
+
 Notebook Description :
+
 General Data Visualisation, Analysing relation between features and target, Using Boxplots to visualize outliers, Data Sanity Checks, building models, evaluating them,
 choosing and saving the best model
 
 Notebook Name : User interface.ipynb
+
 Custom Defined Modules Used : None
+
 Notebook Description :
 Deployment of web application 
 
